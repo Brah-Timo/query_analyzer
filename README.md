@@ -8,6 +8,11 @@
 
 ---
 
+
+
+<img src="assets/images/query_analyzer.jpg" width="1024" height="1536">
+
+
 ## 📋 Table of Contents
 
 - [Why Query Analyzer?](#why-query-analyzer)
